@@ -1,0 +1,669 @@
+<svg width="296px" height="306px" viewBox="0 0 296 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>LED_ROW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.881221374" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-3" x="0.881221374" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-5" x="0.274534351" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-7" x="0.274534351" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-9" x="0.368305344" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-11" x="0.368305344" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-13" x="0.472244275" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-15" x="0.472244275" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-17" x="0.564885496" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-19" x="0.564885496" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-21" x="0.665435115" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-23" x="0.665435115" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-25" x="0.760335878" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-27" x="0.760335878" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-29" x="0.858625954" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-31" x="0.858625954" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-33" x="0.79648855" y="0.520363636" width="10.0572214" height="10.0887059"></rect>
+        <rect id="path-35" x="0.79648855" y="0.520363636" width="10.0572214" height="10.0887059"></rect>
+        <rect id="path-37" x="0.898167939" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-39" x="0.898167939" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-41" x="0.997587786" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-43" x="0.997587786" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-45" x="0.0924885496" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-47" x="0.0924885496" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-49" x="0.0632671756" y="0.520363636" width="10.0549618" height="10.0887059"></rect>
+        <rect id="path-51" x="0.0632671756" y="0.520363636" width="10.0549618" height="10.0887059"></rect>
+        <rect id="path-53" x="0.160427481" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-55" x="0.160427481" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-57" x="0.259847328" y="0.520363636" width="10.0549618" height="10.0887059"></rect>
+        <rect id="path-59" x="0.259847328" y="0.520363636" width="10.0549618" height="10.0887059"></rect>
+        <rect id="path-61" x="0.355877863" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-63" x="0.355877863" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-65" x="0.457557252" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-67" x="0.457557252" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-69" x="0.551328244" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-71" x="0.551328244" y="0.520363636" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-73" x="0.231603053" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-75" x="0.231603053" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-77" x="0.343450382" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-79" x="0.343450382" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-81" x="0.449648855" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-83" x="0.449648855" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-85" x="0.566015267" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-87" x="0.566015267" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-89" x="0.676732824" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-91" x="0.676732824" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-93" x="0.790839695" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-95" x="0.790839695" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-97" x="0.0100152672" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-99" x="0.0100152672" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-101" x="0.119603053" y="0.623529412" width="10.0572214" height="10.0887059"></rect>
+        <rect id="path-103" x="0.119603053" y="0.623529412" width="10.0572214" height="10.0887059"></rect>
+        <rect id="path-105" x="0.107328244" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-107" x="0.107328244" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-109" x="0.219175573" y="0.623529412" width="10.0572214" height="10.0887059"></rect>
+        <rect id="path-111" x="0.219175573" y="0.623529412" width="10.0572214" height="10.0887059"></rect>
+        <rect id="path-113" x="0.327633588" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-115" x="0.327633588" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-117" x="0.439480916" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-119" x="0.439480916" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-121" x="0.551328244" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-123" x="0.551328244" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-125" x="0.667694656" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+        <rect id="path-127" x="0.667694656" y="0.623529412" width="10.0538321" height="10.0887059"></rect>
+    </defs>
+    <g id="Basic-Arduino" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LED_ROW">
+            <g id="Arduino" transform="translate(0.000000, 94.000000)">
+                <polygon id="ARDUINO_BACKGROUND" fill="#00979D" fill-rule="nonzero" points="23.8359084 3.97471658 23.8359084 207.922118 23.8539847 208.317775 23.9172519 208.700963 24.0042443 209.072813 24.1341679 209.44693 24.3070229 209.799508 24.499084 210.133947 24.7329466 210.445711 24.9927939 210.739337 25.2842748 211.002353 25.5938321 211.232492 25.924855 211.426353 26.2796031 211.595273 26.6501679 211.727914 27.0207328 211.81861 27.4025954 211.878695 27.794626 211.896834 281.316366 211.896834 281.708397 211.878695 282.08913 211.81861 282.465344 211.727914 282.838168 211.595273 283.189527 211.426353 283.51829 211.232492 283.831237 211.002353 284.123847 210.739337 284.384824 210.445711 284.616427 210.133947 284.806229 209.799508 284.974565 209.44693 285.106748 209.072813 285.19713 208.700963 285.260397 208.317775 285.279603 207.922118 285.279603 201.808128 295.333435 191.718289 295.333435 61.5593583 285.279603 51.4706524 285.279603 6.06297326 279.245496 0.0102032086 27.794626 0.0102032086 27.794626 0 27.4025954 0.0204064171 27.0207328 0.0827593583 26.6501679 0.172320856 26.2796031 0.304962567 25.924855 0.476149733 25.5938321 0.665475936 25.2842748 0.899016043 24.9927939 1.1608984 24.7329466 1.45225668 24.499084 1.76515508 24.3070229 2.09845989 24.1341679 2.45217112 24.0042443 2.82515508 23.9172519 3.20040642 23.8539847 3.58472727"></polygon>
+                <g id="PINS" transform="translate(92.000000, 4.000000)">
+                    <g id="Clipped" transform="translate(176.885496, 0.534759)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="SVGID_131_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-2)" x="0.881221374" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(176.885496, 0.534759)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="SVGID_133_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-4)" points="7.93212214 3.50877005 6.96729771 3.50877005 6.96729771 3.51670588 4.82299237 3.51670588 4.82299237 3.50877005 3.85477863 3.50877005 3.85477863 3.51670588 3.85477863 4.48827807 3.85477863 6.64115508 3.85477863 7.60139037 3.85477863 7.61159358 7.93212214 7.61159358 7.93212214 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(167.847328, 0.534759)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="SVGID_135_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-6)" x="0.274534351" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(167.847328, 0.534759)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="SVGID_137_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-8)" points="7.32882443 3.50877005 6.36061069 3.50877005 6.36061069 3.51670588 4.21630534 3.51670588 4.21630534 3.50877005 3.25035115 3.50877005 3.25035115 3.51670588 3.25035115 4.48827807 3.25035115 6.64115508 3.25035115 7.60139037 3.25035115 7.61159358 7.32882443 7.61159358 7.32882443 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(157.679389, 0.534759)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="SVGID_139_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-10)" x="0.368305344" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(157.679389, 0.534759)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="SVGID_141_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-12)" points="7.42259542 3.50877005 6.45438168 3.50877005 6.45438168 3.51670588 4.31346565 3.51670588 4.31346565 3.50877005 3.34412214 3.50877005 3.34412214 3.51670588 3.34412214 4.48827807 3.34412214 6.64115508 3.34412214 7.60139037 3.34412214 7.61159358 7.42259542 7.61159358 7.42259542 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(147.511450, 0.534759)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="SVGID_143_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-14)" x="0.472244275" y="0.521497326" width="10.0515725" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(147.511450, 0.534759)">
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <g id="SVGID_145_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-16)" points="7.52427481 3.50877005 6.55832061 3.50877005 6.55832061 3.51670588 4.41401527 3.51670588 4.41401527 3.50877005 3.44580153 3.50877005 3.44580153 3.51670588 3.44580153 4.48827807 3.44580153 6.64115508 3.44580153 7.60139037 3.44580153 7.61159358 7.52427481 7.61159358 7.52427481 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(137.343511, 0.534759)">
+                        <mask id="mask-18" fill="white">
+                            <use xlink:href="#path-17"></use>
+                        </mask>
+                        <g id="SVGID_147_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-18)" x="0.564885496" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(137.343511, 0.534759)">
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="SVGID_149_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-20)" points="7.6180458 3.50877005 6.64983206 3.50877005 6.64983206 3.51670588 4.50891603 3.51670588 4.50891603 3.50877005 3.54070229 3.50877005 3.54070229 3.51670588 3.54070229 4.48827807 3.54070229 6.64115508 3.54070229 7.60139037 3.54070229 7.61159358 7.6180458 7.61159358 7.6180458 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(127.175573, 0.534759)">
+                        <mask id="mask-22" fill="white">
+                            <use xlink:href="#path-21"></use>
+                        </mask>
+                        <g id="SVGID_151_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-22)" x="0.663175573" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(127.175573, 0.534759)">
+                        <mask id="mask-24" fill="white">
+                            <use xlink:href="#path-23"></use>
+                        </mask>
+                        <g id="SVGID_153_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-24)" points="7.71746565 3.50877005 6.75151145 3.50877005 6.75151145 3.51670588 4.60720611 3.51670588 4.60720611 3.50877005 3.63899237 3.50877005 3.63899237 3.51670588 3.63899237 4.48827807 3.63899237 6.64115508 3.63899237 7.60139037 3.63899237 7.61159358 7.71746565 7.61159358 7.71746565 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(117.007634, 0.534759)">
+                        <mask id="mask-26" fill="white">
+                            <use xlink:href="#path-25"></use>
+                        </mask>
+                        <g id="SVGID_155_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-26)" x="0.760335878" y="0.521497326" width="10.0515725" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(117.007634, 0.534759)">
+                        <mask id="mask-28" fill="white">
+                            <use xlink:href="#path-27"></use>
+                        </mask>
+                        <g id="SVGID_157_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-28)" points="7.81123664 3.50877005 6.84528244 3.50877005 6.84528244 3.51670588 4.70210687 3.51670588 4.70210687 3.50877005 3.73389313 3.50877005 3.73389313 3.51670588 3.73389313 4.48827807 3.73389313 6.64115508 3.73389313 7.60139037 3.73389313 7.61159358 7.81123664 7.61159358 7.81123664 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(106.839695, 0.534759)">
+                        <mask id="mask-30" fill="white">
+                            <use xlink:href="#path-29"></use>
+                        </mask>
+                        <g id="SVGID_159_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-30)" x="0.858625954" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(106.839695, 0.534759)">
+                        <mask id="mask-32" fill="white">
+                            <use xlink:href="#path-31"></use>
+                        </mask>
+                        <g id="SVGID_161_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-32)" points="7.91065649 3.50877005 6.94470229 3.50877005 6.94470229 3.51670588 4.80039695 3.51670588 4.80039695 3.50877005 3.83444275 3.50877005 3.83444275 3.51670588 3.83444275 4.48827807 3.83444275 6.64115508 3.83444275 7.60139037 3.83444275 7.61159358 7.91065649 7.61159358 7.91065649 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(91.022901, 0.534759)">
+                        <mask id="mask-34" fill="white">
+                            <use xlink:href="#path-33"></use>
+                        </mask>
+                        <g id="SVGID_163_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-34)" x="0.79648855" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(91.022901, 0.534759)">
+                        <mask id="mask-36" fill="white">
+                            <use xlink:href="#path-35"></use>
+                        </mask>
+                        <g id="SVGID_165_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-36)" points="7.85077863 3.50877005 6.88482443 3.50877005 6.88482443 3.51670588 4.74051908 3.51670588 4.74051908 3.50877005 3.77230534 3.50877005 3.77230534 3.51670588 3.77230534 4.48827807 3.77230534 6.64115508 3.77230534 7.60139037 3.77230534 7.61159358 7.85077863 7.61159358 7.85077863 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(80.854962, 0.534759)">
+                        <mask id="mask-38" fill="white">
+                            <use xlink:href="#path-37"></use>
+                        </mask>
+                        <g id="SVGID_167_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-38)" x="0.898167939" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(80.854962, 0.534759)">
+                        <mask id="mask-40" fill="white">
+                            <use xlink:href="#path-39"></use>
+                        </mask>
+                        <g id="SVGID_169_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-40)" points="7.95245802 3.50877005 6.98650382 3.50877005 6.98650382 3.51670588 4.84219847 3.51670588 4.84219847 3.50877005 3.87398473 3.50877005 3.87398473 3.51670588 3.87398473 4.48827807 3.87398473 6.64115508 3.87398473 7.60139037 3.87398473 7.61159358 7.95245802 7.61159358 7.95245802 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(70.687023, 0.534759)">
+                        <mask id="mask-42" fill="white">
+                            <use xlink:href="#path-41"></use>
+                        </mask>
+                        <g id="SVGID_171_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-42)" x="0.997587786" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(70.687023, 0.534759)">
+                        <mask id="mask-44" fill="white">
+                            <use xlink:href="#path-43"></use>
+                        </mask>
+                        <g id="SVGID_173_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-44)" points="8.05187786 3.50877005 7.08253435 3.50877005 7.08253435 3.51670588 4.93935878 3.51670588 4.93935878 3.50877005 3.97340458 3.50877005 3.97340458 3.51670588 3.97340458 4.48827807 3.97340458 6.64115508 3.97340458 7.60139037 3.97340458 7.61159358 8.05187786 7.61159358 8.05187786 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(61.519084, 0.534759)">
+                        <mask id="mask-46" fill="white">
+                            <use xlink:href="#path-45"></use>
+                        </mask>
+                        <g id="SVGID_175_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-46)" x="0.0913587786" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(61.519084, 0.534759)">
+                        <mask id="mask-48" fill="white">
+                            <use xlink:href="#path-47"></use>
+                        </mask>
+                        <g id="SVGID_177_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-48)" points="7.14564885 3.50877005 6.17856489 3.50877005 6.17856489 3.51670588 4.03538931 3.51670588 4.03538931 3.50877005 3.06717557 3.50877005 3.06717557 3.51670588 3.06717557 4.48827807 3.06717557 6.64115508 3.06717557 7.60139037 3.06717557 7.61159358 7.14564885 7.61159358 7.14564885 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(51.480916, 0.534759)">
+                        <mask id="mask-50" fill="white">
+                            <use xlink:href="#path-49"></use>
+                        </mask>
+                        <g id="SVGID_179_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-50)" x="0.0632671756" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(51.480916, 0.534759)">
+                        <mask id="mask-52" fill="white">
+                            <use xlink:href="#path-51"></use>
+                        </mask>
+                        <g id="SVGID_181_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-52)" points="7.11755725 3.50877005 6.15047328 3.50877005 6.15047328 3.51670588 4.00616794 3.51670588 4.00616794 3.50877005 3.0379542 3.50877005 3.0379542 3.51670588 3.0379542 4.48827807 3.0379542 6.64115508 3.0379542 7.60139037 3.0379542 7.61159358 7.11755725 7.61159358 7.11755725 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(41.312977, 0.534759)">
+                        <mask id="mask-54" fill="white">
+                            <use xlink:href="#path-53"></use>
+                        </mask>
+                        <g id="SVGID_183_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-54)" x="0.15929771" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(41.312977, 0.534759)">
+                        <mask id="mask-56" fill="white">
+                            <use xlink:href="#path-55"></use>
+                        </mask>
+                        <g id="SVGID_185_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-56)" points="7.21358779 3.50877005 6.24650382 3.50877005 6.24650382 3.51670588 4.10219847 3.51670588 4.10219847 3.50877005 3.1351145 3.50877005 3.1351145 3.51670588 3.1351145 4.48827807 3.1351145 6.64115508 3.1351145 7.60139037 3.1351145 7.61159358 7.21358779 7.61159358 7.21358779 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(31.145038, 0.534759)">
+                        <mask id="mask-58" fill="white">
+                            <use xlink:href="#path-57"></use>
+                        </mask>
+                        <g id="SVGID_187_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-58)" x="0.259847328" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(31.145038, 0.534759)">
+                        <mask id="mask-60" fill="white">
+                            <use xlink:href="#path-59"></use>
+                        </mask>
+                        <g id="SVGID_189_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-60)" points="7.31187786 3.50877005 6.34592366 3.50877005 6.34592366 3.51670588 4.20161832 3.51670588 4.20161832 3.50877005 3.23340458 3.50877005 3.23340458 3.51670588 3.23340458 4.48827807 3.23340458 6.64115508 3.23340458 7.60139037 3.23340458 7.61159358 7.31187786 7.61159358 7.31187786 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(20.977099, 0.534759)">
+                        <mask id="mask-62" fill="white">
+                            <use xlink:href="#path-61"></use>
+                        </mask>
+                        <g id="SVGID_191_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-62)" x="0.355877863" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(20.977099, 0.534759)">
+                        <mask id="mask-64" fill="white">
+                            <use xlink:href="#path-63"></use>
+                        </mask>
+                        <g id="SVGID_193_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-64)" points="7.40903817 3.50877005 6.4419542 3.50877005 6.4419542 3.51670588 4.29877863 3.51670588 4.29877863 3.50877005 3.33056489 3.50877005 3.33056489 3.51670588 3.33056489 4.48827807 3.33056489 6.64115508 3.33056489 7.60139037 3.33056489 7.61159358 7.40903817 7.61159358 7.40903817 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(10.809160, 0.534759)">
+                        <mask id="mask-66" fill="white">
+                            <use xlink:href="#path-65"></use>
+                        </mask>
+                        <g id="SVGID_195_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-66)" x="0.456427481" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(10.809160, 0.534759)">
+                        <mask id="mask-68" fill="white">
+                            <use xlink:href="#path-67"></use>
+                        </mask>
+                        <g id="SVGID_197_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-68)" points="7.50958779 3.50877005 6.54363359 3.50877005 6.54363359 3.51670588 4.39932824 3.51670588 4.39932824 3.50877005 3.43224427 3.50877005 3.43224427 3.51670588 3.43224427 4.48827807 3.43224427 6.64115508 3.43224427 7.60139037 3.43224427 7.61159358 7.50958779 7.61159358 7.50958779 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(0.641221, 0.534759)">
+                        <mask id="mask-70" fill="white">
+                            <use xlink:href="#path-69"></use>
+                        </mask>
+                        <g id="SVGID_199_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-70)" x="0.551328244" y="0.521497326" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(0.641221, 0.534759)">
+                        <mask id="mask-72" fill="white">
+                            <use xlink:href="#path-71"></use>
+                        </mask>
+                        <g id="SVGID_201_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-72)" points="7.60448855 3.50877005 6.63740458 3.50877005 6.63740458 3.51670588 4.49422901 3.51670588 4.49422901 3.50877005 3.52601527 3.50877005 3.52601527 3.51670588 3.52601527 4.48827807 3.52601527 6.64115508 3.52601527 7.60139037 3.52601527 7.61159358 7.60448855 7.61159358 7.60448855 7.60139037"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(178.015267, 192.128342)">
+                        <mask id="mask-74" fill="white">
+                            <use xlink:href="#path-73"></use>
+                        </mask>
+                        <g id="SVGID_203_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-74)" x="0.231603053" y="0.624663102" width="10.0515725" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(178.015267, 192.128342)">
+                        <mask id="mask-76" fill="white">
+                            <use xlink:href="#path-75"></use>
+                        </mask>
+                        <g id="SVGID_205_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-76)" points="7.28363359 3.61306952 6.31767939 3.61306952 6.31767939 3.61987166 4.17337405 3.61987166 4.17337405 3.61306952 3.20516031 3.61306952 3.20516031 3.61987166 3.20516031 4.59144385 3.20516031 6.74318717 3.20516031 7.70342246 3.20516031 7.71589305 7.28363359 7.71589305 7.28363359 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(167.847328, 192.128342)">
+                        <mask id="mask-78" fill="white">
+                            <use xlink:href="#path-77"></use>
+                        </mask>
+                        <g id="SVGID_207_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-78)" x="0.343450382" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(167.847328, 192.128342)">
+                        <mask id="mask-80" fill="white">
+                            <use xlink:href="#path-79"></use>
+                        </mask>
+                        <g id="SVGID_209_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-80)" points="7.39435115 3.61306952 6.42839695 3.61306952 6.42839695 3.61987166 4.2840916 3.61987166 4.2840916 3.61306952 3.31926718 3.61306952 3.31926718 3.61987166 3.31926718 4.59144385 3.31926718 6.74318717 3.31926718 7.70342246 3.31926718 7.71589305 7.39435115 7.71589305 7.39435115 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(157.679389, 192.128342)">
+                        <mask id="mask-82" fill="white">
+                            <use xlink:href="#path-81"></use>
+                        </mask>
+                        <g id="SVGID_211_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-82)" x="0.449648855" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(157.679389, 192.128342)">
+                        <mask id="mask-84" fill="white">
+                            <use xlink:href="#path-83"></use>
+                        </mask>
+                        <g id="SVGID_213_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-84)" points="7.50393893 3.61306952 6.53459542 3.61306952 6.53459542 3.61987166 4.39367939 3.61987166 4.39367939 3.61306952 3.42546565 3.61306952 3.42546565 3.61987166 3.42546565 4.59144385 3.42546565 6.74318717 3.42546565 7.70342246 3.42546565 7.71589305 7.50393893 7.71589305 7.50393893 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(147.511450, 192.128342)">
+                        <mask id="mask-86" fill="white">
+                            <use xlink:href="#path-85"></use>
+                        </mask>
+                        <g id="SVGID_215_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-86)" x="0.564885496" y="0.624663102" width="10.0515725" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(147.511450, 192.128342)">
+                        <mask id="mask-88" fill="white">
+                            <use xlink:href="#path-87"></use>
+                        </mask>
+                        <g id="SVGID_217_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-88)" points="7.61691603 3.61306952 6.65096183 3.61306952 6.65096183 3.61987166 4.50665649 3.61987166 4.50665649 3.61306952 3.53844275 3.61306952 3.53844275 3.61987166 3.53844275 4.59144385 3.53844275 6.74318717 3.53844275 7.70342246 3.53844275 7.71589305 7.61691603 7.71589305 7.61691603 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(137.343511, 192.128342)">
+                        <mask id="mask-90" fill="white">
+                            <use xlink:href="#path-89"></use>
+                        </mask>
+                        <g id="SVGID_219_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-90)" x="0.676732824" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(137.343511, 192.128342)">
+                        <mask id="mask-92" fill="white">
+                            <use xlink:href="#path-91"></use>
+                        </mask>
+                        <g id="SVGID_221_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-92)" points="7.7310229 3.61306952 6.76280916 3.61306952 6.76280916 3.61987166 4.61850382 3.61987166 4.61850382 3.61306952 3.65254962 3.61306952 3.65254962 3.61987166 3.65254962 4.59144385 3.65254962 6.74318717 3.65254962 7.70342246 3.65254962 7.71589305 7.7310229 7.71589305 7.7310229 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(127.175573, 192.128342)">
+                        <mask id="mask-94" fill="white">
+                            <use xlink:href="#path-93"></use>
+                        </mask>
+                        <g id="SVGID_223_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-94)" x="0.790839695" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(127.175573, 192.128342)">
+                        <mask id="mask-96" fill="white">
+                            <use xlink:href="#path-95"></use>
+                        </mask>
+                        <g id="SVGID_225_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-96)" points="7.84174046 3.61306952 6.87578626 3.61306952 6.87578626 3.61987166 4.73148092 3.61987166 4.73148092 3.61306952 3.76665649 3.61306952 3.76665649 3.61987166 3.76665649 4.59144385 3.76665649 6.74318717 3.76665649 7.70342246 3.76665649 7.71589305 7.84174046 7.71589305 7.84174046 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(107.839695, 192.128342)">
+                        <mask id="mask-98" fill="white">
+                            <use xlink:href="#path-97"></use>
+                        </mask>
+                        <g id="SVGID_227_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-98)" x="0.00775572519" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(107.839695, 192.128342)">
+                        <mask id="mask-100" fill="white">
+                            <use xlink:href="#path-99"></use>
+                        </mask>
+                        <g id="SVGID_229_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-100)" points="7.0620458 3.61306952 6.0960916 3.61306952 6.0960916 3.61987166 3.95178626 3.61987166 3.95178626 3.61306952 2.98357252 3.61306952 2.98357252 3.61987166 2.98357252 4.59144385 2.98357252 6.74318717 2.98357252 7.70342246 2.98357252 7.71589305 7.0620458 7.71589305 7.0620458 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(97.671756, 192.128342)">
+                        <mask id="mask-102" fill="white">
+                            <use xlink:href="#path-101"></use>
+                        </mask>
+                        <g id="SVGID_231_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-102)" x="0.119603053" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(97.671756, 192.128342)">
+                        <mask id="mask-104" fill="white">
+                            <use xlink:href="#path-103"></use>
+                        </mask>
+                        <g id="SVGID_233_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-104)" points="7.17276336 3.61306952 6.20680916 3.61306952 6.20680916 3.61987166 4.06363359 3.61987166 4.06363359 3.61306952 3.09541985 3.61306952 3.09541985 3.61987166 3.09541985 4.59144385 3.09541985 6.74318717 3.09541985 7.70342246 3.09541985 7.71589305 7.17276336 7.71589305 7.17276336 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(87.633588, 192.128342)">
+                        <mask id="mask-106" fill="white">
+                            <use xlink:href="#path-105"></use>
+                        </mask>
+                        <g id="SVGID_235_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-106)" x="0.105068702" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(87.633588, 192.128342)">
+                        <mask id="mask-108" fill="white">
+                            <use xlink:href="#path-107"></use>
+                        </mask>
+                        <g id="SVGID_237_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-108)" points="7.15935878 3.61306952 6.19340458 3.61306952 6.19340458 3.61987166 4.04909924 3.61987166 4.04909924 3.61306952 3.0808855 3.61306952 3.0808855 3.61987166 3.0808855 4.59144385 3.0808855 6.74318717 3.0808855 7.70342246 3.0808855 7.71589305 7.15935878 7.71589305 7.15935878 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(77.465649, 192.128342)">
+                        <mask id="mask-110" fill="white">
+                            <use xlink:href="#path-109"></use>
+                        </mask>
+                        <g id="SVGID_239_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-110)" x="0.219175573" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(77.465649, 192.128342)">
+                        <mask id="mask-112" fill="white">
+                            <use xlink:href="#path-111"></use>
+                        </mask>
+                        <g id="SVGID_241_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-112)" points="7.27346565 3.61306952 6.30751145 3.61306952 6.30751145 3.61987166 4.16320611 3.61987166 4.16320611 3.61306952 3.19499237 3.61306952 3.19499237 3.61987166 3.19499237 4.59144385 3.19499237 6.74318717 3.19499237 7.70342246 3.19499237 7.71589305 7.27346565 7.71589305 7.27346565 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(67.297710, 192.128342)">
+                        <mask id="mask-114" fill="white">
+                            <use xlink:href="#path-113"></use>
+                        </mask>
+                        <g id="SVGID_243_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-114)" x="0.327633588" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(67.297710, 192.128342)">
+                        <mask id="mask-116" fill="white">
+                            <use xlink:href="#path-115"></use>
+                        </mask>
+                        <g id="SVGID_245_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-116)" points="7.38192366 3.61306952 6.41483969 3.61306952 6.41483969 3.61987166 4.27053435 3.61987166 4.27053435 3.61306952 3.30345038 3.61306952 3.30345038 3.61987166 3.30345038 4.59144385 3.30345038 6.74318717 3.30345038 7.70342246 3.30345038 7.71589305 7.38192366 7.71589305 7.38192366 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(57.129771, 192.128342)">
+                        <mask id="mask-118" fill="white">
+                            <use xlink:href="#path-117"></use>
+                        </mask>
+                        <g id="SVGID_247_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-118)" x="0.439480916" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(57.129771, 192.128342)">
+                        <mask id="mask-120" fill="white">
+                            <use xlink:href="#path-119"></use>
+                        </mask>
+                        <g id="SVGID_249_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-120)" points="7.49151145 3.61306952 6.52442748 3.61306952 6.52442748 3.61987166 4.38125191 3.61987166 4.38125191 3.61306952 3.41416794 3.61306952 3.41416794 3.61987166 3.41416794 4.59144385 3.41416794 6.74318717 3.41416794 7.70342246 3.41416794 7.71589305 7.49151145 7.71589305 7.49151145 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(46.961832, 192.128342)">
+                        <mask id="mask-122" fill="white">
+                            <use xlink:href="#path-121"></use>
+                        </mask>
+                        <g id="SVGID_251_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-122)" x="0.551328244" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(46.961832, 192.128342)">
+                        <mask id="mask-124" fill="white">
+                            <use xlink:href="#path-123"></use>
+                        </mask>
+                        <g id="SVGID_253_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-124)" points="7.60335878 3.61306952 6.63740458 3.61306952 6.63740458 3.61987166 4.49422901 3.61987166 4.49422901 3.61306952 3.52601527 3.61306952 3.52601527 3.61987166 3.52601527 4.59144385 3.52601527 6.74318717 3.52601527 7.70342246 3.52601527 7.71589305 7.60335878 7.71589305 7.60335878 7.70342246"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(36.793893, 192.128342)">
+                        <mask id="mask-126" fill="white">
+                            <use xlink:href="#path-125"></use>
+                        </mask>
+                        <g id="SVGID_255_"></g>
+                        <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" mask="url(#mask-126)" x="0.667694656" y="0.624663102" width="10.0538321" height="10.0887059"></rect>
+                    </g>
+                    <g id="Clipped" transform="translate(36.793893, 192.128342)">
+                        <mask id="mask-128" fill="white">
+                            <use xlink:href="#path-127"></use>
+                        </mask>
+                        <g id="SVGID_257_"></g>
+                        <polygon id="Shape" fill="#58595B" fill-rule="nonzero" mask="url(#mask-128)" points="7.72085496 3.61306952 6.75490076 3.61306952 6.75490076 3.61987166 4.61059542 3.61987166 4.61059542 3.61306952 3.64238168 3.61306952 3.64238168 3.61987166 3.64238168 4.59144385 3.64238168 6.74318717 3.64238168 7.70342246 3.64238168 7.71589305 7.72085496 7.71589305 7.72085496 7.70342246"></polygon>
+                    </g>
+                    <text id="0" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="182" y="16">0</tspan>
+                    </text>
+                    <text id="1" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="172" y="16">1</tspan>
+                    </text>
+                    <text id="2" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="162" y="16">2</tspan>
+                    </text>
+                    <text id="3" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="152" y="16">3</tspan>
+                    </text>
+                    <text id="4" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="141" y="16">4</tspan>
+                    </text>
+                    <text id="5" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="131" y="16">5</tspan>
+                    </text>
+                    <text id="6" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="121" y="16">6</tspan>
+                    </text>
+                    <text id="7" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="111" y="16">7</tspan>
+                    </text>
+                    <text id="8" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="96" y="16">8</tspan>
+                    </text>
+                    <text id="9" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="86" y="16">9</tspan>
+                    </text>
+                    <text id="10" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="74" y="16">10</tspan>
+                    </text>
+                    <text id="11" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="64" y="16">11</tspan>
+                    </text>
+                    <text id="12" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="54" y="16">12</tspan>
+                    </text>
+                    <text id="13" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="44" y="16">13</tspan>
+                    </text>
+                    <text id="A5" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="180" y="192">A5</tspan>
+                    </text>
+                    <text id="A4" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="170" y="192">A4</tspan>
+                    </text>
+                    <text id="A3" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="160" y="192">A3</tspan>
+                    </text>
+                    <text id="A2" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="151" y="192">A2</tspan>
+                    </text>
+                    <text id="A1" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="140" y="192">A1</tspan>
+                    </text>
+                    <text id="A0" font-family="AndaleMono, Andale Mono" font-size="5" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="130" y="192">A0</tspan>
+                    </text>
+                </g>
+                <g id="POWER_PLUG" transform="translate(17.000000, 162.000000)" fill-rule="nonzero">
+                    <path d="M11.0250992,2.44284492 L11.0250992,0.861347594 C11.0250992,0.423743316 10.6703511,0.0677647059 10.2342595,0.0677647059 L1.0288855,0.0677647059 C0.593923664,0.0677647059 0.236916031,0.423743316 0.236916031,0.861347594 L0.236916031,36.8355936 C0.236916031,37.2743316 0.592793893,37.6314439 1.0288855,37.6314439 L10.2342595,37.6314439 C10.6692214,37.6314439 11.0250992,37.2743316 11.0250992,36.8355936 L11.0250992,35.2563636 L52.1465038,35.2563636 C52.5803359,35.2563636 52.935084,34.8981176 52.935084,34.4605134 L52.935084,3.23642781 C52.935084,2.79882353 52.5803359,2.44284492 52.1465038,2.44284492 L11.0250992,2.44284492 L11.0250992,2.44284492 Z" id="Power" fill="#000000"></path>
+                    <rect id="Rectangle-path" fill="#1C1711" x="11.0250992" y="2.56868449" width="41.7845802" height="4.92474866"></rect>
+                    <rect id="Rectangle-path" fill="#1C1711" x="11.0250992" y="29.9767701" width="41.7845802" height="5.29546524"></rect>
+                    <path d="M0.236916031,33.4515294 L0.236916031,36.8344599 C0.236916031,37.2731979 0.592793893,37.6303102 1.0288855,37.6303102 L10.2342595,37.6303102 C10.6703511,37.6303102 11.0250992,37.2731979 11.0250992,36.8344599 L11.0250992,35.2552299 L11.0250992,33.4515294 L0.236916031,33.4515294 L0.236916031,33.4515294 Z" id="Shape" fill="#000000"></path>
+                    <path d="M0.236916031,0.860213904 L0.236916031,3.81007487 L11.0250992,3.81007487 L11.0250992,2.44284492 L11.0250992,0.860213904 C11.0250992,0.421475936 10.6703511,0.066631016 10.2342595,0.066631016 L1.0288855,0.066631016 C0.592793893,0.0677647059 0.236916031,0.421475936 0.236916031,0.860213904" id="Shape" fill="#000000"></path>
+                </g>
+                <g id="USB" transform="translate(0.000000, 37.000000)" fill-rule="nonzero">
+                    <rect id="Rectangle-path" fill="#A0A1A2" x="0" y="0.334673797" width="60.2484275" height="45.3963422"></rect>
+                    <polygon id="Shape" fill="#8E9090" points="2.51148092 0.334673797 0 0.334673797 0 0.408363636 0 45.6085775 0 45.731016 2.51148092 45.731016 2.51148092 45.6085775 2.51148092 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="7.53105344 0.334673797 5.01957252 0.334673797 5.01957252 0.408363636 5.01957252 45.6085775 5.01957252 45.731016 7.53105344 45.731016 7.53105344 45.6085775 7.53105344 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="12.550626 0.334673797 10.039145 0.334673797 10.039145 0.408363636 10.039145 45.6085775 10.039145 45.731016 12.550626 45.731016 12.550626 45.6085775 12.550626 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="17.5713282 0.334673797 15.0598473 0.334673797 15.0598473 0.408363636 15.0598473 45.6085775 15.0598473 45.731016 17.5713282 45.731016 17.5713282 45.6085775 17.5713282 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="22.589771 0.334673797 20.0794198 0.334673797 20.0794198 0.408363636 20.0794198 45.6085775 20.0794198 45.731016 22.589771 45.731016 22.589771 45.6085775 22.589771 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="27.6104733 0.334673797 25.1023817 0.334673797 25.1023817 0.408363636 25.1023817 45.6085775 25.1023817 45.731016 27.6104733 45.731016 27.6104733 45.6085775 27.6104733 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="32.6334351 0.334673797 30.1208244 0.334673797 30.1208244 0.408363636 30.1208244 45.6085775 30.1208244 45.731016 32.6334351 45.731016 32.6334351 45.6085775 32.6334351 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="37.6518779 0.334673797 35.1415267 0.334673797 35.1415267 0.408363636 35.1415267 45.6085775 35.1415267 45.731016 37.6518779 45.731016 37.6518779 45.6085775 37.6518779 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="42.6714504 0.334673797 40.1610992 0.334673797 40.1610992 0.408363636 40.1610992 45.6085775 40.1610992 45.731016 42.6714504 45.731016 42.6714504 45.6085775 42.6714504 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="47.6921527 0.334673797 45.1818015 0.334673797 45.1818015 0.408363636 45.1818015 45.6085775 45.1818015 45.731016 47.6921527 45.731016 47.6921527 45.6085775 47.6921527 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="52.7117252 0.334673797 50.2002443 0.334673797 50.2002443 0.408363636 50.2002443 45.6085775 50.2002443 45.731016 52.7117252 45.731016 52.7117252 45.6085775 52.7117252 45.6085775"></polygon>
+                    <polygon id="Shape" fill="#8E9090" points="57.7312977 0.334673797 55.2198168 0.334673797 55.2198168 0.408363636 55.2198168 45.6085775 55.2198168 45.731016 57.7312977 45.731016 57.7312977 45.6085775 57.7312977 45.6085775"></polygon>
+                </g>
+                <g id="PIN_13_LED" transform="translate(95.000000, 42.000000)">
+                    <text id="PIN_13_LED_TEXT" font-family="AndaleMono, Andale Mono" font-size="10" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="27" y="10">LED 13</tspan>
+                    </text>
+                    <rect id="PIN_13_LED_BACKGROUND" fill="#A0A1A2" x="0" y="1" width="24" height="11"></rect>
+                    <rect id="PIN_13_LED_LIGHT" fill="#8E9090" x="3" y="0" width="18" height="13"></rect>
+                </g>
+                <g id="TX_LED" transform="translate(95.000000, 70.000000)">
+                    <text id="TX_LED_TEXT" font-family="AndaleMono, Andale Mono" font-size="10" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="27" y="10">TX</tspan>
+                    </text>
+                    <rect id="TX_LED_BACKGROUND" fill="#A0A1A2" x="0" y="1" width="24" height="11"></rect>
+                    <rect id="TX_LED_LIGHT" fill="#8E9090" x="3" y="0" width="18" height="13"></rect>
+                </g>
+                <g id="RX_LED" transform="translate(95.000000, 86.000000)">
+                    <text id="RX_LED_TEXT" font-family="AndaleMono, Andale Mono" font-size="10" font-weight="normal" fill="#E2E7ED">
+                        <tspan x="27" y="10">RX</tspan>
+                    </text>
+                    <rect id="RX_LED_BACKGROUND" fill="#A0A1A2" x="0" y="1" width="24" height="11"></rect>
+                    <rect id="RX_LED_LIGHT" fill="#8E9090" x="3" y="0" width="18" height="13"></rect>
+                </g>
+                <rect id="CHIP" fill="#000000" fill-rule="nonzero" x="122" y="138.559572" width="151.240458" height="37.5636791"></rect>
+                <path d="M290.557893,181.448193 C290.557893,178.506267 288.181985,176.123251 285.253618,176.123251 C282.320733,176.123251 279.949344,178.506267 279.949344,181.448193 C279.949344,184.390118 282.320733,186.772 285.253618,186.772 C288.181985,186.772 290.557893,184.390118 290.557893,181.448193 L290.557893,181.448193 L290.557893,181.448193 Z" id="SCREW_HOLE" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M290.557893,70.6458824 C290.557893,67.7039572 288.181985,65.3209412 285.253618,65.3209412 C282.320733,65.3209412 279.949344,67.7039572 279.949344,70.6458824 C279.949344,73.5878075 282.320733,75.9696898 285.253618,75.9696898 C288.181985,75.9696898 290.557893,73.5878075 290.557893,70.6458824 L290.557893,70.6458824 L290.557893,70.6458824 Z" id="SCREW_HOLE" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M87.4092519,201.999722 C87.4092519,199.057797 85.0344733,196.674781 82.1061069,196.674781 C79.1732214,196.674781 76.8018321,199.057797 76.8018321,201.999722 C76.8018321,204.941647 79.1732214,207.323529 82.1061069,207.323529 C85.0344733,207.323529 87.4092519,204.940513 87.4092519,201.999722 L87.4092519,201.999722 L87.4092519,201.999722 Z" id="SCREW_HOLE" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="GROUND" transform="translate(127.000000, 32.000000)" stroke="#46ACFF" stroke-width="2" stroke-linecap="square">
+                <path d="M104,13.0405641 L104,0.694107124" id="Line"></path>
+                <path d="M74,13.0405641 L74,0.694107124" id="Line"></path>
+                <path d="M44,13.0405641 L44,0.694107124" id="Line"></path>
+                <path d="M14,13.0405641 L14,0.694107124" id="Line"></path>
+                <path d="M1,72.0405641 L1,15" id="Line"></path>
+                <path d="M133.015151,15 L1,15" id="Line"></path>
+                <path d="M133,13.0405641 L133,0.694107124" id="Line"></path>
+                <path d="M14,13.0405641 L14,0.694107124" id="Line"></path>
+            </g>
+            <g id="SIGNAL" transform="translate(158.000000, 32.000000)" stroke="#FF4646" stroke-width="2" stroke-linecap="square">
+                <path d="M47,72 L47,45.6941071" id="Line"></path>
+                <path d="M1,45.6941071 L47,45.6941071" id="Line"></path>
+                <path d="M57,72 L57,34" id="Line"></path>
+                <path d="M31,34 L31,0.694107124" id="Line"></path>
+                <path d="M31,34 L57,34" id="Line"></path>
+                <path d="M67,72 L67,27.9886378" id="Line"></path>
+                <path d="M67,28 L61,28" id="Line"></path>
+                <path d="M77,72 L77,27.9886378" id="Line"></path>
+                <path d="M91,27.9886378 L77,27.9886378" id="Line"></path>
+                <path d="M87,72 L87,35" id="Line"></path>
+                <path d="M120,34 L87,34" id="Line"></path>
+                <path d="M120,32 L120,0.694107124" id="Line"></path>
+                <path d="M91,27 L91,0.694107124" id="Line"></path>
+                <path d="M61,27 L61,0.694107124" id="Line"></path>
+                <path d="M1,45 L1,0.694107124" id="Line"></path>
+            </g>
+            <g id="LEDS" transform="translate(137.000000, 0.000000)" fill="#8E9090">
+                <path d="M119,12.9925566 C119,5.81696572 124.81872,0 132,0 L132,0 C139.179702,0 145,5.81351098 145,12.9925566 L145,32 L119,32 L119,12.9925566 Z" id="LED_PIN_3"></path>
+                <path d="M90,12.9925566 C90,5.81696572 95.8187196,0 103,0 L103,0 C110.179702,0 116,5.81351098 116,12.9925566 L116,32 L90,32 L90,12.9925566 Z" id="LED_PIN_4"></path>
+                <path d="M60,12.9925566 C60,5.81696572 65.8187196,0 73,0 L73,0 C80.1797017,0 86,5.81351098 86,12.9925566 L86,32 L60,32 L60,12.9925566 Z" id="LED_PIN_5"></path>
+                <path d="M30,12.9925566 C30,5.81696572 35.8187196,0 43,0 L43,0 C50.1797017,0 56,5.81351098 56,12.9925566 L56,32 L30,32 L30,12.9925566 Z" id="LED_PIN_6"></path>
+                <path d="M0,12.9925566 C0,5.81696572 5.81871963,0 13,0 L13,0 C20.1797017,0 26,5.81351098 26,12.9925566 L26,32 L0,32 L0,12.9925566 Z" id="LED_PIN_7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -3,45 +3,48 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Editor</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Snapp Development Playgrounds</title>
+  <!--<link rel="stylesheet" href="css/foundation.min.css">-->
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="noscroll">
-    <!-- Top bar with snapp logo // does not change size -->
-    <div id="logobar" class="item">
-      <img src="images/educationlogo.png" alt="Snapp Education Logo" id="educationlogo">
+<div class="top-bar">
+    <div class="top-bar-left">
+      <img src="images/educationlogo.png">
     </div>
-    <!-- Large resizable area holding the image of the arduino -->
-      <div id="topsection" class="item">
-        <img src="images/placeholder.png" alt="Arduino placeholder image" id="placeholderimage">
+  </div>
+  <div id="app">
+    <div id="playground">
+        <center>
+            <object data="images/LED_ROW.svg" type="image/svg+xml" id="arduino"></object>
+        </center>
+    </div>
+    <div id="editor-container" class="resize-drag">
+      <div id="editor-headder">
+        <!--TODO: Dropdown-->
+        <button id="compile-button" v-on:click = "compileAndRun">Compile &amp; Run</button>
       </div>
-      <!-- Draggable bar to resize (grow the editor, shrink the top) -->
-      <div id="dragger">
-        <button type="button" name="submit">Compile & Run</button>
-        <select class="minimal">
-            <option>LED Row</option>
-            <option>other option</option>
-            <option>other option</option>
-        </select>
-        <span>Playground: </span>
+      <div id="editor">//Snapp Development Arduino Playground
+//To run code use the  "Compile and Run" button or the key combination Ctrl + Enter
+
+void setup() {
+  //Put your setup code here, to run once:
+  
+}
+
+void loop() {
+  //Put your main code here, to run repeatedly:
+
+}
       </div>
-      <!-- Medium resiable area holding the code editor -->
-      <div id="editor" class="item">
-        function foo(items) {
-          var i;
-          for (i = 0; i &lt; items.length; i++) {
-              alert("Snapp Dev is Cool! " + items[i]);
-          }
-        }
-      </div>
+    </div>
   </div>
 
-  <script src="http://code.jquery.com/jquery-3.2.1.js"
-    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.9/ace.js" type="text/javascript" charset="utf-8"></script>
-  <script type="text/javascript" src="index.js"></script>
-  <!-- <script src="ace-builds/src-noconflict/ext-themelist.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/2.6.3/svg.min.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" src="js/interact.min.js"></script>
+  <script type="text/javascript" src="js/theme.js"></script>
+  <script type="text/javascript" src="js/index.js"></script>
 </body>
 </html>
